@@ -1,1 +1,5 @@
 /.idea/
+/*.iml/
+/target/
+/out/
+/practiceGithub.iml/
